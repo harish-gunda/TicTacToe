@@ -41,7 +41,7 @@
         <maven.compiler.target>8</maven.compiler.target>
         <sonar.organization>harish-gunda</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <sonar.java.binaries>**/*.java</sonar.java.binaries>
+        <sonar.java.binaries>target</sonar.java.binaries>
     </properties>
 
 
